@@ -1,1 +1,90 @@
-[]
+ [
+ {
+  "name": " DROWNING SEQ",
+  "type": "Synth",
+  "settings": {
+   "volume": 0,
+   "detune": -563,
+   "portamento": "0",
+   "envelope": {
+    "attack": "0.005",
+    "attackCurve": "sine",
+    "decay": "0.1",
+    "decayCurve": "exponential",
+    "release": "1",
+    "releaseCurve": "exponential",
+    "sustain": "0.3"
+   },
+   "oscillator": {
+    "partialCount": 3,
+    "partials": [
+     0.8105694691387023,
+     0,
+     -0.0900632743487447
+    ],
+    "phase": 0,
+    "type": "fmtriangle3",
+    "harmonicity": 3,
+    "modulationIndex": 2,
+    "modulationType": "sine"
+   }
+  }
+ },
+ {
+  "name": "CONSUMING SYNTH",
+  "type": "Synth",
+  "settings": {
+   "volume": -5,
+   "detune": 0,
+   "portamento": "0",
+   "envelope": {
+    "attack": "0.135",
+    "attackCurve": "sine",
+    "decay": "0.115",
+    "decayCurve": "exponential",
+    "release": "1.025",
+    "releaseCurve": "ripple",
+    "sustain": "0.305"
+   },
+   "oscillator": {
+    "partialCount": 2,
+    "partials": [
+     1,
+     1
+    ],
+    "phase": 0,
+    "type": "fatsine2",
+    "count": 2,
+    "spread": 10
+   }
+  }
+ },
+ {
+  "name": "Video Game SYNTH",
+  "type": "Synth",
+  "settings": {
+   "volume": -7,
+   "detune": 0,
+   "portamento": "0",
+   "envelope": {
+    "attack": "0.005",
+    "attackCurve": "linear",
+    "decay": "0.205",
+    "decayCurve": "exponential",
+    "release": "1",
+    "releaseCurve": "exponential",
+    "sustain": "0.3"
+   },
+   "oscillator": {
+    "partialCount": 1,
+    "partials": [
+     0.8105694691387023
+    ],
+    "phase": 180,
+    "type": "amtriangle1",
+    "harmonicity": 2,
+    "modulationType": "square"
+   }
+  }
+ }
+]
