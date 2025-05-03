@@ -1,7 +1,7 @@
 [
  {
   "name": "PERSEUCTIONNEW",
-  "file": "samples/Persecution_line_copy_(online-audio-converter.com).mp3",
+  "file": "samples/Persecution_line.mp3",
   "bpm": "78",
   "loop": "0",
   "grain": "0.051",
@@ -9,7 +9,7 @@
  },
  {
   "name": "Forshame",
-  "file": "samples/for_shame_3_(online-audio-converter.com).mp3",
+  "file": "samples/for_shame_3.mp3",
   "bpm": "78",
   "loop": "1m",
   "grain": "0.051",
@@ -17,7 +17,7 @@
  },
  {
   "name": "Untitled",
-  "file": "samples/hate_the_way_you_are_(online-audio-converter.com).mp3",
+  "file": "samples/hate_the_way_you_are.mp3",
   "bpm": 120,
   "loop": "1m",
   "grain": 0.04,
